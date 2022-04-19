@@ -1,0 +1,6 @@
+Baidu Cloud: 
+url: https://pan.baidu.com/s/14mpj6It4rIec5LuVzpktlg 
+password: lisb 
+
+Google Drive:
+url: https://drive.google.com/drive/folders/1EaGr4Cv2xovTQyOOWGriiTpS2Nl69M2U?usp=sharing
