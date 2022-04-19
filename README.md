@@ -1,2 +1,2 @@
 # ConvCrackDet
-a python script for measure crack's length and width
+concrete crack object detection and numerical extraction based on vanilla YOLOx framework. https://github.com/Megvii-BaseDetection/YOLOX
